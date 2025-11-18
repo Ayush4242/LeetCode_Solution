@@ -1,18 +1,19 @@
 class Solution {
 public:
     bool isOneBitCharacter(vector<int>& bits) {
-        int i = 0;
-        int n = bits.size();
-        
-        while(i < n - 1) {       // stop before the last bit
-            if(bits[i] == 1) {
-                i += 2;          // 2-bit character
-            } else {
-                i += 1;          // 1-bit character
+        int i=0;
+        int n=bits.size();
+        while(i<bits.size()-1){
+            if(bits[i]==1){
+                i+=2;
+            }
+            else{
+                i+=1;
             }
         }
-        
-        // If we ended exactly at the last bit, it's a one-bit character
-        return i == n - 1;
+        if(i==n-1){
+            return true;
+        }
+        return false;
     }
 };
