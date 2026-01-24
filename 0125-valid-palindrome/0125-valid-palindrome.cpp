@@ -3,12 +3,15 @@ public:
     bool isPalindrome(string s) {
         string str="";
         for(auto i:s){
-            if(isalpha(i)){
+            if((i>='a' && i<='z') || (i>='A' && i<='Z')){
+                if(isalnum(i)){
                 str+=tolower(i);
+                }
             }
         }
-        string str1=str;
+        
+        string res1=str;
         reverse(str.begin(),str.end());
-        return (str1==str);
+        return str==res1;
     }
 };
