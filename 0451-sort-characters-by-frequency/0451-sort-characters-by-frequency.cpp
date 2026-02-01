@@ -1,7 +1,6 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        string str="";
         unordered_map<char,int>mp;
         for(auto i:s){
             mp[i]++;
@@ -10,12 +9,14 @@ public:
         for(auto i:mp){
             pq.push({i.second,i.first});
         }
+        string str="";
         while(!pq.empty()){
-            int freq=pq.top().first;
-            char c=pq.top().second;
+            int f=pq.top().first;
+            char t=pq.top().second;
+            str.append(f,t);
             pq.pop();
-            str.append(freq,c);
         }
         return str;
+
     }
 };
