@@ -5,7 +5,7 @@ public:
             return 0;
         }
         int i=0,j=0,maxi=INT_MIN;
-        unordered_map<int,int>mp;
+        unordered_map<char,int>mp;
         while(j<s.length()){
             mp[s[j]]++;
             while(mp.size()>0 && mp[s[j]]>1){
