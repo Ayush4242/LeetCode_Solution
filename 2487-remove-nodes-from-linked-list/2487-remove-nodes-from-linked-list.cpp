@@ -10,30 +10,31 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* head){
+        ListNode* curr=head;
+        ListNode* prev=nullptr;
+        while(curr!=nullptr){
+            ListNode* front=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=front;
+        }
+        return prev;
+    }
     ListNode* removeNodes(ListNode* head) {
-        stack<int>st;
+        head=reverse(head);
         ListNode* temp=head;
-        while(temp!=nullptr){
-            st.push(temp->val);
+        int maxi=temp->val;
+        while(temp!=nullptr && temp->next!=nullptr){
+        if(temp->next->val<maxi){
+            temp->next=temp->next->next;
+        }
+        else{
             temp=temp->next;
+            maxi=temp->val;
         }
-        int start=st.top();
-        st.pop();
-        int maxi=start;
-        ListNode* newNode=new ListNode(start);
-        while(!st.empty()){
-            int curr=st.top();
-            st.pop();
-            if(curr<maxi){
-                continue;
-            }
-            else{
-                ListNode* resNode=new ListNode(curr);
-                resNode->next=newNode;
-                newNode=resNode;
-                maxi=curr;
-            }
-        }
-        return newNode;
+    }
+        return reverse(head);        
+        
     }
 };
