@@ -40,6 +40,5 @@ public:
             tail->next=newnode;
         }
         return dummy->next;
-
     }
 };
