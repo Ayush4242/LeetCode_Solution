@@ -11,22 +11,18 @@
  */
 class Solution {
 public:
-    void calc(TreeNode* root,int k,vector<int>&v){
-        if(root==nullptr){
-            return;
-        }
-        
-        calc(root->left,k,v);
-        v.push_back(root->val);
-        calc(root->right,k,v);
-        
-
-    }
     int kthSmallest(TreeNode* root, int k) {
         vector<int>v;
         calc(root,k,v);
         return v[k-1]; 
 
-
+    }
+    void calc(TreeNode* root, int k,vector<int>&v){
+        if(root==nullptr){
+            return;
+        }
+        calc(root->left,k,v);
+        v.push_back(root->val);
+        calc(root->right,k,v);
     }
 };
