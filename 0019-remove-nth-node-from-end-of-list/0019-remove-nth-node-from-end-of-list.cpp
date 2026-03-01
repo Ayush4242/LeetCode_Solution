@@ -20,13 +20,19 @@ public:
         if(c==n){
             return head->next;
         }
-        int tar=c-n;
-        temp=head;
-        while(temp!=nullptr && tar>1){
-            temp=temp->next;
-            tar--;
+        if(n==1 && c==1){
+            return nullptr;
         }
+        int rem=c-n,res=0;
+        temp=head;
+        while(res<rem-1){
+            temp=temp->next;
+            res++;
+        }
+        
         temp->next=temp->next->next;
+        
         return head;
+
     }
 };
