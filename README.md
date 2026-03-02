@@ -57,4 +57,12 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
