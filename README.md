@@ -8,10 +8,12 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -20,6 +22,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -50,4 +53,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
