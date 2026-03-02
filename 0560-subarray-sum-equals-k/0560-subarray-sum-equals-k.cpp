@@ -7,8 +7,10 @@ public:
         for(int i=0;i<nums.size();i++){
             presum+=nums[i];
             int rem=presum-k;
-            c+=mp[rem];
-            mp[presum]+=1;
+            if(mp.find(rem)!=mp.end()){
+                c+=mp[rem];
+            }
+            mp[presum]++;
 
         }
         return c;
