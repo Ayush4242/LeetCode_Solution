@@ -11,22 +11,23 @@
  */
 class Solution {
 public:
-int calc(TreeNode* root,int maxi){
-    if(root==nullptr){
+int maxi=0;
+    int calc(TreeNode* root,int maxi){
+        if(root==nullptr){
             return 0;
         }
         int c=0;
         if(root->val>=maxi){
+            maxi=root->val;
             c=1;
-            maxi=root->val;           
         }
         c+=calc(root->left,maxi);
         c+=calc(root->right,maxi);
         return c;
 
-}
+    }
     int goodNodes(TreeNode* root) {
-        int maxi=calc(root,root->val);
-        return maxi;
+        int res=calc(root,root->val);
+        return res;
     }
 };
