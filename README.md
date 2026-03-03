@@ -9,20 +9,24 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
