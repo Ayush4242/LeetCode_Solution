@@ -10,32 +10,34 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* node,int left,int right){
+        ListNode* curr=node;
+        ListNode* prev=nullptr;
+        int c=left;
+        while(curr!=nullptr && c<=right){
+            ListNode* front=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=front;
+            c++;
+        }
+        node->next=curr;
+        return prev;
+    }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(head==nullptr){
             return nullptr;
         }
-        ListNode* temp=head;
+        if(left==1){
+            return reverse(head, left, right);
+        }
         int c=1;
-        stack<int>st;
-        while(temp!=nullptr){
-            if(c>=left && c<=right){
-                st.push(temp->val);
-            }
-            c++;
+        ListNode* temp=head;
+        while(temp!=nullptr && c<left-1){
             temp=temp->next;
-        }
-        temp=head;
-        c=1;
-        while(temp!=nullptr){
-            if(c>=left && c<=right){
-                temp->val=st.top();
-                st.pop();
-
-            }
             c++;
-            temp=temp->next;
-
         }
+        temp->next=reverse(temp->next,left,right);
         return head;
     }
 };
