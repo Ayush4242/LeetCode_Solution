@@ -31,6 +31,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -78,9 +79,14 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
