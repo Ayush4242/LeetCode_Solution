@@ -106,4 +106,5 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0197-rising-temperature](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
