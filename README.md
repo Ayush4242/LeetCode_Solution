@@ -9,6 +9,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -16,6 +17,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -29,6 +31,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -138,4 +141,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
