@@ -42,6 +42,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -100,6 +101,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0086-partition-list/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
@@ -152,6 +155,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
