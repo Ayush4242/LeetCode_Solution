@@ -75,12 +75,14 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Binary Search Tree
@@ -109,6 +111,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 ## Math
@@ -159,6 +162,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0135-candy/) | Hard |
+| [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0860-lemonade-change/) | Easy |
