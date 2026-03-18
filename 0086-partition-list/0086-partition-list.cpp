@@ -1,38 +1,27 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        if(head==nullptr){
-            return nullptr;
-        }
-        ListNode* smalldummy=new ListNode(0);
-        ListNode* largedummy=new ListNode(0);
-        ListNode* smalltail=smalldummy;
-        ListNode* largetail=largedummy;
-        ListNode* temp=head;
-        while(temp!=nullptr){
-            if(temp->val<x){
-                smalltail->next=temp;
-                smalltail=smalltail->next;
-            }
-            else{
-                largetail->next=temp;
-                largetail=largetail->next;
-            }
-            temp=temp->next;
-        }
-        largetail->next=nullptr;
-        smalltail->next=largedummy->next;
-        return smalldummy->next;
+        ListNode* dummysm = new ListNode(0);
+        ListNode* dummylar = new ListNode(0);
 
+        ListNode* tailsm = dummysm;
+        ListNode* taillar = dummylar;
+
+        ListNode* t1 = head;
+        while(t1 != nullptr){
+            if(t1->val < x){
+                tailsm->next = t1;
+                tailsm = tailsm->next;
+            }
+            else{           
+                taillar->next = t1;
+                taillar = taillar->next;
+            }
+            t1 = t1->next;
+        }
+        taillar->next = nullptr;          
+        tailsm->next = dummylar->next;
+
+        return dummysm->next;
     }
 };
