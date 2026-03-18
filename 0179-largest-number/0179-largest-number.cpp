@@ -1,19 +1,18 @@
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {
-        vector<string>st;
-
+        vector<string>ans;
         for(auto i:nums){
-            st.push_back(to_string(i));
+            ans.push_back(to_string(i));            
         }
-        sort(st.begin(),st.end(),[](string &a,string &b){
+        sort(ans.begin(),ans.end(),[](string &a,string &b){
             return a+b>b+a;
         });
-        if(st[0]=="0"){
+        if(ans[0]=="0"){
             return "0";
         }
         string res="";
-        for(auto i:st){
+        for(auto i:ans){
             res+=i;
         }
         return res;
