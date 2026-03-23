@@ -11,19 +11,25 @@
  */
 class Solution {
 public:
-int sum=0;
     bool hasPathSum(TreeNode* root, int targetSum) {
         if(root==nullptr){
             return false;
         }
+        return traverse(root,targetSum);
+    }
+    bool traverse(TreeNode* root, int targetSum){
+        if(root==nullptr){
+            return false;
+        }
         if(root->left==nullptr && root->right==nullptr){
-            if(targetSum==root->val){
+            if(root->val==targetSum){
                 return true;
             }
         }
-        int rem=targetSum-root->val;
-        return hasPathSum(root->left,rem)||
-        hasPathSum(root->right,rem);
-        // return false;
+        return traverse(root->left,targetSum-root->val)|| 
+        traverse(root->right,targetSum-root->val);
+        return false;
+
+
     }
 };
