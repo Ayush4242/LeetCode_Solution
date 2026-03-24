@@ -16,9 +16,9 @@ public:
         if(root==nullptr){
             return 0;
         }
-        int res=traverse(root,0);
-        mini=min(mini,res);
-        return mini;
+        return traverse(root,0);
+        // mini=min(mini,res);
+        // return mini;
 
     }
     int traverse(TreeNode* root,int c){
