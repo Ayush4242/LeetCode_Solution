@@ -10,6 +10,9 @@ public:
             while(mp[nums[j]]>1){
                 sum-=nums[i];
                 mp[nums[i]]--;
+                if(mp[nums[i]]==0){
+                    mp.erase(nums[i]);
+                }
                 i++;
             }
             
