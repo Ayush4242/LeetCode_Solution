@@ -73,6 +73,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0134-gas-station](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
@@ -219,6 +220,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
