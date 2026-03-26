@@ -8,17 +8,17 @@ public:
             if(ratings[i]>ratings[i-1]){
                 ans1[i]=ans1[i-1]+1;
             }
-            else{
-                ans1[i]=1;
-            }
+            // else{
+            //     ans1[i]=1;
+            // }
         }
         for(int i=n-2;i>=0;i--){
             if(ratings[i]>ratings[i+1]){
                 ans2[i]=ans2[i+1]+1;
             }
-            else{
-                ans2[i]=1;
-            }
+            // else{
+            //     ans2[i]=1;
+            // }
         }
         int sum=0;
         for(int i=0;i<ans1.size();i++){
