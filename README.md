@@ -78,6 +78,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -96,6 +97,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
@@ -206,6 +208,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -243,4 +246,12 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
