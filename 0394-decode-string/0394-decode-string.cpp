@@ -1,13 +1,14 @@
 class Solution {
 public:
     string decodeString(string s) {
-        string ans="";
         stack<char>st;
+        
         for(auto i:s){
             if(i!=']'){
                 st.push(i);
             }
             else{
+                string res="";
                 string ans="";
                 while(!st.empty() && st.top()!='['){
                     ans+=st.top();
@@ -15,28 +16,28 @@ public:
                 }
                 st.pop();
                 reverse(ans.begin(),ans.end());
-                string num="";
+                string val="";
                 while(!st.empty() && isdigit(st.top())){
-                    num+=st.top();
+                    val+=st.top();
                     st.pop();
                 }
-                reverse(num.begin(),num.end());
-                int k=stoi(num);
-                while(k--){
-                    for(auto i:ans){
-                        st.push(i);
-                    }
+                reverse(val.begin(),val.end());
+                // string res="";
+                int dig=stoi(val);
+                while(dig--){
+                    res+=ans;
+                }
+                for(auto i:res){
+                    st.push(i);
                 }
             }
-            
-            
         }
-        string res="";
-            while(!st.empty()){
-                res+=st.top();
-                st.pop();
-            }
-            reverse(res.begin(),res.end());
-        return res;
+        string res1="";
+        while(!st.empty()){
+            res1+=st.top();
+            st.pop();
+        }
+        reverse(res1.begin(),res1.end());
+        return res1;
     }
 };
