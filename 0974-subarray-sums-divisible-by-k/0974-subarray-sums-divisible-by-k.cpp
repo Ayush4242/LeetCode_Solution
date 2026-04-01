@@ -7,9 +7,9 @@ public:
         for(auto i:nums){
             sum+=i;
             int rem=sum%k;
-            if(rem<0){
-                rem+=k;
-            }
+            // if(rem<0){
+            //     rem+=k;
+            // }
             ans+=mp[rem];
             mp[rem]++;
         }
