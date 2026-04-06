@@ -21,32 +21,45 @@ public:
         }
         return prev;
     }
+
     ListNode* removeNodes(ListNode* head) {
-        ListNode* temp=head;
-        stack<int>st;
-        while(temp!=nullptr){
-            if(st.empty()){
-                st.push(temp->val);
+        // ListNode* temp=head;
+        // stack<int>st;
+        // while(temp!=nullptr){
+        //     if(st.empty()){
+        //         st.push(temp->val);
+        //     }
+        //     else{
+        //         while(!st.empty() && st.top()<temp->val){
+        //         st.pop();
+        //         }
+        //         st.push(temp->val);
+        //     }
+        //     temp=temp->next;
+        // }
+        // // ListNode* newnode=new ListNode(st.top());
+        // ListNode* tail=nullptr;
+        // while(!st.empty()){
+        //     ListNode* newnode=new ListNode(st.top());
+        //     newnode->next=tail;
+        //     tail=newnode;
+        //     st.pop();
+        // }
+        // return tail;
+        ListNode* ans=reverse(head);
+        ListNode* temp=ans;
+         int maxi=ans->val;
+        while(temp!=nullptr && temp->next!=nullptr){
+            if(temp->next->val<maxi){
+                temp->next=temp->next->next;
             }
             else{
-                while(!st.empty() && st.top()<temp->val){
-                st.pop();
-                }
-                st.push(temp->val);
+                temp=temp->next;
+                maxi=temp->val;
             }
-            temp=temp->next;
         }
-        // ListNode* newnode=new ListNode(st.top());
-        ListNode* tail=nullptr;
-        while(!st.empty()){
-            ListNode* newnode=new ListNode(st.top());
-            newnode->next=tail;
-            tail=newnode;
-            st.pop();
-        }
-        // ListNode* ans=reverse(newnode->next);
-        // return ans;
-        return tail;
+        return reverse(ans);
+
 
     }
 };
