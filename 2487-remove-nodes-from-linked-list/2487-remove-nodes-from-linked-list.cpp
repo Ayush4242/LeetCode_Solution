@@ -14,27 +14,39 @@ public:
         ListNode* curr=head;
         ListNode* prev=nullptr;
         while(curr!=nullptr){
-            ListNode* front=curr->next;
+            ListNode* nextnode=curr->next;
             curr->next=prev;
             prev=curr;
-            curr=front;
+            curr=nextnode;
         }
         return prev;
     }
     ListNode* removeNodes(ListNode* head) {
-        head=reverse(head);
         ListNode* temp=head;
-        int maxi=temp->val;
-        while(temp!=nullptr && temp->next!=nullptr){
-        if(temp->next->val<maxi){
-            temp->next=temp->next->next;
-        }
-        else{
+        stack<int>st;
+        while(temp!=nullptr){
+            if(st.empty()){
+                st.push(temp->val);
+            }
+            else{
+                while(!st.empty() && st.top()<temp->val){
+                st.pop();
+                }
+                st.push(temp->val);
+            }
             temp=temp->next;
-            maxi=temp->val;
         }
-    }
-        return reverse(head);        
-        
+        // ListNode* newnode=new ListNode(st.top());
+        ListNode* tail=nullptr;
+        while(!st.empty()){
+            ListNode* newnode=new ListNode(st.top());
+            newnode->next=tail;
+            tail=newnode;
+            st.pop();
+        }
+        // ListNode* ans=reverse(newnode->next);
+        // return ans;
+        return tail;
+
     }
 };
