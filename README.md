@@ -114,6 +114,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -154,6 +155,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0021-merge-two-sorted-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0086-partition-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0086-partition-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
