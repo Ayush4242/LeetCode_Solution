@@ -133,6 +133,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
@@ -186,6 +187,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Math
