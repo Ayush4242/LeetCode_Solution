@@ -164,6 +164,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0050-powx-n/) | Medium |
 | [0394-decode-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0394-decode-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
@@ -197,6 +198,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Simulation
