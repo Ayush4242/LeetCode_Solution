@@ -91,6 +91,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0050-powx-n](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
