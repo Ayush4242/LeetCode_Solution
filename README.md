@@ -120,6 +120,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -196,6 +197,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
@@ -218,6 +220,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
