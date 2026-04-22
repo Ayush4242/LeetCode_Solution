@@ -139,6 +139,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
@@ -199,6 +200,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
