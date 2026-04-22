@@ -204,6 +204,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0860-lemonade-change](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Counting
