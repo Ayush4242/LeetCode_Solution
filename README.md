@@ -222,6 +222,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
