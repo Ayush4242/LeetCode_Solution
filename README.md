@@ -75,6 +75,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0135-candy/) | Hard |
@@ -348,6 +349,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
