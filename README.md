@@ -73,6 +73,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0014-longest-common-prefix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
@@ -286,6 +287,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
@@ -354,6 +356,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Union-Find
