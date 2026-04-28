@@ -72,6 +72,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
@@ -108,6 +109,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
