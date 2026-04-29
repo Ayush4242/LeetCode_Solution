@@ -101,6 +101,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -124,6 +125,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0560-subarray-sum-equals-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +157,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -255,6 +259,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
