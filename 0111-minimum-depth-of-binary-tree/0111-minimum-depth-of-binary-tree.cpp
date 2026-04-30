@@ -11,24 +11,18 @@
  */
 class Solution {
 public:
-    int mini=INT_MAX;
     int minDepth(TreeNode* root) {
         if(root==nullptr){
             return 0;
         }
-        return traverse(root,0);
-        // mini=min(mini,res);
-        // return mini;
-
-    }
-    int traverse(TreeNode* root,int c){
-        if(root==nullptr){
-            return INT_MAX;
+        int left=minDepth(root->left);
+        int right=minDepth(root->right);
+        if(left==0){
+            return 1+right;
         }
-        if(root->left==nullptr && root->right==nullptr){
-            return c+1;
+        if(right==0){
+            return 1+left;
         }
-        return min(traverse(root->left,c+1),
-        traverse(root->right,c+1));
+        return 1+min(left,right);
     }
 };
