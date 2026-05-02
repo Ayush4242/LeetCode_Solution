@@ -11,25 +11,25 @@
  */
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root) {
-        if(root==nullptr){
-            return false;
-        }
-        return traverse(root->left,root->right);
-    }
-    bool traverse(TreeNode* leftnode,TreeNode* rightnode) {
-        if(leftnode==nullptr && rightnode==nullptr){
+    bool ismirror(TreeNode* lefts,TreeNode* rights) {
+        if(lefts==nullptr && rights==nullptr){
             return true;
         }
-        if(leftnode==nullptr || rightnode==nullptr){
+        if(lefts==nullptr || rights==nullptr){
             return false;
         }
-        return (leftnode->val==rightnode->val && traverse(leftnode->left,rightnode->right)&& traverse(leftnode->right,rightnode->left));
-           
-
+        if(lefts->val!=rights->val){
+            return false;
+        }
+        return ismirror(lefts->left,rights->right)&& ismirror(lefts->right,rights->left);
+    }
+    bool isSymmetric(TreeNode* root) {
+        if(root==nullptr){
+            return true;
+        }
+        TreeNode* lefts=root->left;
+        TreeNode* rights=root->right;
+        return ismirror(lefts,rights);
         
-        
-
-
     }
 };
