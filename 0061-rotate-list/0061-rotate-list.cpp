@@ -22,9 +22,12 @@ public:
         return temp;
     }
     ListNode* rotateRight(ListNode* head, int k) {
+        if(head==nullptr || head->next==nullptr || k==0){
+            return head;
+        }
         int c=1;
         ListNode* temp=head;
-        while(temp->next!=nullptr){
+        while(temp!=nullptr && temp->next!=nullptr){
             c++;
             temp=temp->next;
         }
