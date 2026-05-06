@@ -39,7 +39,7 @@ public:
         ListNode* newtail=find(head,c-k);
         ListNode* newhead=newtail->next;
         newtail->next=nullptr;
-        head=newhead;
+        
         return newhead;
     }
 };
