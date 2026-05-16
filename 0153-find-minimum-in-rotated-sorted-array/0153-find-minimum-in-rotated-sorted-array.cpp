@@ -6,11 +6,11 @@ public:
         //     mini=min(mini,nums[i]);
         // }
         // return mini;
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         int low=0,high=nums.size()-1,mini=INT_MAX;
         while(low<=high){
             int mid=(low+high)/2;
-            if(nums[mid]>nums[low]){
+            if(nums[mid]>=nums[low]){
                 mini=min(mini,nums[low]);
                 low=mid+1;
             }
