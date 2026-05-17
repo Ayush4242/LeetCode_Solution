@@ -207,6 +207,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -286,6 +287,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
@@ -305,6 +307,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
