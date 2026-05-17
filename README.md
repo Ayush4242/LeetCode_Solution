@@ -129,6 +129,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
@@ -310,6 +311,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +358,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
