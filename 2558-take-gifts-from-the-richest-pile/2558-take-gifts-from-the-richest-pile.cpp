@@ -5,17 +5,18 @@ public:
         for(auto i:gifts){
             pq.push(i);
         }
-        while(!pq.empty() && k>0){
-            int t=pq.top();
+        while(k>0){
+            int top=pq.top();
             pq.pop();
-            k--;
-            pq.push(sqrt(t));
+            int res=floor(sqrt(top));
+            pq.push(res);
+            k--;       
         }
-        long long s=0;
+        long long sum=0;
         while(!pq.empty()){
-            s+=pq.top();
+            sum+=pq.top();
             pq.pop();
         }
-        return s;
+        return sum;
     }
 };
