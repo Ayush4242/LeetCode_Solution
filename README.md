@@ -117,6 +117,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -137,6 +138,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
