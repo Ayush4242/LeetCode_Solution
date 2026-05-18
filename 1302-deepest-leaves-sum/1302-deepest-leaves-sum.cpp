@@ -12,17 +12,17 @@
 class Solution {
 public:
     int deepestLeavesSum(TreeNode* root) {
-        int sm=0;
-        vector<vector<int>>vec;
         queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){           
+        q.push(root);  
+        int sum=0;     
+        vector<vector<int>>ans;
+        while(!q.empty()){
             int size=q.size();
-             sm=0;
+            sum=0;          
             for(int i=0;i<size;i++){
                 TreeNode* node=q.front();
-                q.pop();
-                sm=sm+node->val;
+                q.pop(); 
+                sum+=node->val;
                 if(node->left){
                     q.push(node->left);
                 }
@@ -30,10 +30,8 @@ public:
                     q.push(node->right);
                 }
             }
-            
-
         }
-        return sm;
-
+        
+        return sum;
     }
 };
