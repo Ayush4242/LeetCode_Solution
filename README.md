@@ -28,6 +28,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1609-even-odd-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1609-even-odd-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1609-even-odd-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1609-even-odd-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1609-even-odd-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1609-even-odd-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
