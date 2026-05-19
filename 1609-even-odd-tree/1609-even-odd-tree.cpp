@@ -14,7 +14,8 @@ public:
     bool isEvenOddTree(TreeNode* root) {
         queue<TreeNode*>q;
         q.push(root);
-        int level=0,prev;
+        int prev;
+        int level=0;
         while(!q.empty()){
             int size=q.size();
             if(level%2==0){
@@ -52,6 +53,6 @@ public:
             }
             level++;
         }
-        return true;     
+        return true;
     }
 };
