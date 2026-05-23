@@ -264,6 +264,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0086-partition-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
@@ -280,6 +281,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0394-decode-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0394-decode-string/) | Medium |
