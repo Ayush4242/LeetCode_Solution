@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string res="";
+        string str="";
         for(auto i:s){
             if(isalnum(i)){
-                res+=tolower(i);
+                str+=tolower(i);
             }
         }
-        string str=res;
-        reverse(res.begin(),res.end());
-        return res==str;
-
-
+        string ch=str;
+        reverse(ch.begin(),ch.end());
+        return ch==str;
     }
 };
