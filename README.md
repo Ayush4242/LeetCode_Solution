@@ -153,6 +153,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -182,6 +183,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -283,6 +285,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0394-decode-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -441,4 +444,16 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
