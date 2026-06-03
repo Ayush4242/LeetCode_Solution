@@ -113,6 +113,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -270,6 +271,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0125-valid-palindrome](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
