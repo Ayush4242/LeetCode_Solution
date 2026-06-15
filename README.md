@@ -134,6 +134,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
@@ -152,6 +153,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
