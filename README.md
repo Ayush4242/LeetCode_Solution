@@ -46,6 +46,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -63,6 +64,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0199-binary-tree-right-side-view](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -451,6 +453,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,4 +475,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
