@@ -252,6 +252,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0086-partition-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0725-split-linked-list-in-parts](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
