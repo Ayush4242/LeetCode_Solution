@@ -142,6 +142,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
@@ -394,6 +395,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
