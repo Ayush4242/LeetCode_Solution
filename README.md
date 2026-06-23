@@ -150,6 +150,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
@@ -476,6 +477,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
