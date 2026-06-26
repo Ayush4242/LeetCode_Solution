@@ -114,6 +114,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0135-candy](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -200,6 +201,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -367,6 +369,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -382,6 +385,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -427,6 +431,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
