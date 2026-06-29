@@ -147,6 +147,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1046-last-stone-weight](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -180,6 +181,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
@@ -192,6 +194,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
