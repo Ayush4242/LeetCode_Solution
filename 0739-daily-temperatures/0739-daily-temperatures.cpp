@@ -9,7 +9,7 @@ public:
             while(!st.empty() && st.top().first<=temperatures[i]){
                 st.pop();
             }
-            if(!st.empty()){
+            if(!st.empty() && temperatures[i]<st.top().first){
                 ans[i]=st.top().second-i;
             }
             st.push({temperatures[i],i});
