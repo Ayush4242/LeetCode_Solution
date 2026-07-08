@@ -105,6 +105,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0035-search-insert-position](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
@@ -372,6 +373,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
