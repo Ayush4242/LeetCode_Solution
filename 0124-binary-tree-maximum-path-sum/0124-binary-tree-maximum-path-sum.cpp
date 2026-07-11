@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    int maxpath(TreeNode* root,int &maxi){
+    int maxi=INT_MIN,sum=0;
+    int traverse(TreeNode* root){
         if(root==nullptr){
             return 0;
         }
-        int left=max(0,maxpath(root->left,maxi));
-        int right=max(0,maxpath(root->right,maxi));
-        maxi=max(maxi,root->val+left+right);
-        return root->val+max(left,right);
+        int lr=max(0,traverse(root->left));
+        int rh=max(0,traverse(root->right));
+        sum=(lr+rh+root->val);
+        maxi=max(maxi,sum);
+        return root->val+max(lr,rh);
     }
     int maxPathSum(TreeNode* root) {
-        int maxi=INT_MIN;
-        maxpath(root,maxi);
+        traverse(root);       
         return maxi;
     }
 };
