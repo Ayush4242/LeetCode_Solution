@@ -241,6 +241,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -324,6 +325,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0796-rotate-string/) | Easy |
@@ -433,6 +435,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0402-remove-k-digits](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -480,6 +483,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
