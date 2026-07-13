@@ -107,6 +107,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0018-4sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
@@ -205,6 +206,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -314,6 +316,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0020-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
@@ -378,6 +381,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
