@@ -22,9 +22,9 @@ public:
             int size=q.size();
             vector<int>ans;
             for(int i=0;i<size;i++){
-                TreeNode* node=q.front();
-                q.pop();
+                auto node=q.front();
                 ans.push_back(node->val);
+                q.pop();
                 if(node->left){
                     q.push(node->left);
                 }
@@ -33,7 +33,7 @@ public:
                 }
             }
             res.push_back(ans);
-        }       
+        }
         return res;
     }
 };
