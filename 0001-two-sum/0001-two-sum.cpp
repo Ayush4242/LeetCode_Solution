@@ -15,5 +15,28 @@ public:
             }
         }
         return ans;
+        // vector<pair<int,int>>ans;
+        // for(int i=0;i<nums.size();i++){
+        //     ans.push_back({nums[i],i});
+        // }
+        // sort(ans.begin(),ans.end());
+        // int i=0,j=ans.size()-1;
+        // vector<int>res;
+        // while(j>=i){
+        //     int sum=ans[i].first+ans[j].first;
+        //     if(sum==target){
+        //         res.push_back(ans[i].second);
+        //         res.push_back(ans[j].second);
+        //         break;
+        //     }
+        //     if(sum>target){
+        //         j--;
+        //     }
+        //     else{
+        //         i++;
+        //     }
+        // }
+        // return res;
+        
     }
 };
