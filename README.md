@@ -114,6 +114,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0057-insert-interval](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0134-gas-station/) | Medium |
@@ -301,6 +302,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -388,6 +390,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0049-group-anagrams](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
