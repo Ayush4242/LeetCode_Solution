@@ -287,6 +287,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0141-linked-list-cycle](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0725-split-linked-list-in-parts/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -316,6 +317,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0283-move-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
