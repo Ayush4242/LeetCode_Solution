@@ -158,6 +158,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -175,6 +176,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0875-koko-eating-bananas](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
