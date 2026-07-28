@@ -396,6 +396,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1045-customers-who-bought-all-products](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
