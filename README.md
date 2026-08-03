@@ -67,6 +67,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0199-binary-tree-right-side-view](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
@@ -136,6 +137,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0496-next-greater-element-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0525-contiguous-array/) | Medium |
+| [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -510,6 +512,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Union-Find
@@ -526,6 +529,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2643-row-with-maximum-ones/) | Easy |
