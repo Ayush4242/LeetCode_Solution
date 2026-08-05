@@ -167,6 +167,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2951-find-the-peaks](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayush4242/LeetCode_Solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -550,4 +551,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2951-find-the-peaks](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->
