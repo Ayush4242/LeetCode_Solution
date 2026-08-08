@@ -130,6 +130,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0283-move-zeroes/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -176,6 +177,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -413,6 +415,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0455-assign-cookies/) | Easy |
@@ -441,6 +444,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
@@ -531,6 +535,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
