@@ -401,6 +401,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0182-duplicate-emails](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0577-employee-bonus/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1068-product-sales-analysis-i/) | Easy |
