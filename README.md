@@ -564,4 +564,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2951-find-the-peaks/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
