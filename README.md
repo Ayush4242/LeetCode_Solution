@@ -357,6 +357,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
@@ -388,6 +389,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0946-validate-stack-sequences/) | Medium |
