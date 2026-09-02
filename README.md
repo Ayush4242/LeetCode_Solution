@@ -312,6 +312,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -338,6 +339,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0020-valid-parentheses/) | Easy |
@@ -522,6 +524,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -575,4 +578,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
