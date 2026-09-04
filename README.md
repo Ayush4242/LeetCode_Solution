@@ -367,6 +367,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0848-shifting-letters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0848-shifting-letters/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -535,6 +536,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,4 +584,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
