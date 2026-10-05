@@ -592,4 +592,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
