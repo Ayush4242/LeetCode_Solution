@@ -165,6 +165,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -246,6 +247,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -377,6 +379,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -503,6 +506,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0767-reorganize-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0767-reorganize-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
