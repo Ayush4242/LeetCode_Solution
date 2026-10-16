@@ -130,6 +130,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -232,6 +233,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -435,6 +437,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -507,6 +510,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -608,4 +612,8 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
