@@ -51,6 +51,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1020-number-of-enclaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -72,6 +73,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1020-number-of-enclaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1609-even-odd-tree/) | Medium |
@@ -161,6 +163,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -562,6 +565,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1020-number-of-enclaves/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -575,6 +579,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1020-number-of-enclaves/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
