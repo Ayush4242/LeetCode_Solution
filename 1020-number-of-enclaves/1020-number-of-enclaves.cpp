@@ -19,10 +19,10 @@ public:
         int m=grid[0].size();
         vector<vector<int>>vis(n,vector<int>(m,0));
         for(int i=0;i<m;i++){
-            if(grid[0][i]==1){
+            if(grid[0][i]==1 && !vis[0][i]){
                 dfs(grid,0,i,vis);
             }
-            if(grid[n-1][i]==1){
+            if(grid[n-1][i]==1 && !vis[n-1][i]){
                 dfs(grid,n-1,i,vis);
             }
         }
@@ -36,7 +36,7 @@ public:
         }
         int c=0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
+            for(int j=0;j<m;j++){
                 if(!vis[i][j] && grid[i][j]==1){
                     c++;
                 }
