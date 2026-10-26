@@ -379,6 +379,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0848-shifting-letters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0848-shifting-letters/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
