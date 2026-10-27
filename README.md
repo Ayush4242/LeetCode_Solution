@@ -154,6 +154,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0739-daily-temperatures](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0848-shifting-letters](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0848-shifting-letters/) | Medium |
 | [0860-lemonade-change](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0860-lemonade-change/) | Easy |
+| [0867-transpose-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -411,6 +412,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0657-robot-return-to-origin](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0735-asteroid-collision/) | Medium |
+| [0867-transpose-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1535-find-the-winner-of-an-array-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -582,6 +584,7 @@ I solve problems in C++, and occasionally in other languages depending on the re
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0733-flood-fill/) | Easy |
+| [0867-transpose-matrix](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/Ayush4242/LeetCode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Ayush4242/LeetCode_Solution/tree/main/1020-number-of-enclaves/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Ayush4242/LeetCode_Solution/tree/main/2643-row-with-maximum-ones/) | Easy |
